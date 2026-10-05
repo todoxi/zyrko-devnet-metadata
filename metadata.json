@@ -2,11 +2,11 @@
   "name": "ZYRKO",
   "symbol": "ZYRKO",
   "description": "ZYRKO es un meme token experimental en Solana Devnet. Los tokens de esta red son de prueba, sin valor real ni promesas de rentabilidad.",
-  "image": "https://HOSTING-PENDING.invalid/zyrko/devnet/zyrko-logo.png",
+  "image": "https://todoxi.github.io/zyrko-devnet-metadata/zyrko-logo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://HOSTING-PENDING.invalid/zyrko/devnet/zyrko-logo.png",
+        "uri": "https://todoxi.github.io/zyrko-devnet-metadata/zyrko-logo.png",
         "type": "image/png"
       }
     ],
